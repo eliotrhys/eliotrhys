@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eliotrhys
+- 👀 I’m interested in simple design and full stack development!
+- 🌱 I’m currently learning React (Next.js) and Python
+- 💞️ I’m open to new work opportunities!
